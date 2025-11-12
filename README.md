@@ -31,7 +31,7 @@
   <a href="https://rubangakene-solomon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
-  <a href="www.linkedin.com/in/rubangakenesolomon" target="_blank">
+  <a href="https://www.linkedin.com/in/rubangakenesolomon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://github.com/rubanga-kene" target="_blank">
