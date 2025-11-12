@@ -5,16 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Django;Building+web+apps+with+passion" alt="Typing SVG" />
 </p>
 
----
-
 <!-- TECH STACK -->
 <h2 align="center">My Tech Arsenal</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,django,php,mysql,git,linux,vscode" height="60" />
 </div>
-
----
 
 <!-- GITHUB STATS -->
 <h2 align="center">GitHub Stats</h2>
@@ -27,8 +23,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubanga-kene&theme=react-dark&hide_border=true&area=true" height="230" />
 </div>
-
----
 
 <!-- CONNECT -->
 <h2 align="center">Connect With Me</h2>
@@ -44,8 +38,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </div>
-
----
 
 <!-- ANIMATED CONTRIBUTIONS -->
 <!-- <h2 align="center">Contributions Playground</h2>
