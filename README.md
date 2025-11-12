@@ -40,7 +40,7 @@
 </div>
 
 <!-- ANIMATED CONTRIBUTIONS -->
-<!-- <h2 align="center">Contributions Playground</h2>
+ <h2 align="center">Contributions Playground</h2>
 
 <p align="center">
   <picture>
@@ -48,5 +48,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubanga-kene/rubanga-kene/output/github-contribution-grid-snake.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/rubanga-kene/rubanga-kene/output/github-contribution-grid-snake.svg" />
   </picture>
-</p> -->
+</p> 
 
