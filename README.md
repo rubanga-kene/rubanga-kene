@@ -1,15 +1,13 @@
-<!-- HEADER -->
-<h1 align="center">Hello, I'm <span style="color:#38bdf8;">Solomon</span></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Django;Building+web+apps+with+passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=440&lines=Hello%2C+I'm+Solomon;Full+Stack+Developer;React+%7C+Next.js+%7C+Django;Building+Web+Apps+With+Passion" alt="Typing SVG" />
 </p>
+
 
 <!-- TECH STACK -->
 <h2 align="center">My Tech Arsenal</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,django,php,mysql,git,linux,vscode" height="60" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,django,php,mysql,git,linux" height="60" />
 </div>
 
 <!-- GITHUB STATS -->
